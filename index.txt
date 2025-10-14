@@ -11,6 +11,9 @@
                 placeholder="Username" class="input">
         <input type="password" name="password" 
                 placeholder="Password" class="input">
+				
+		<input type="checkbox">
+		<label>jkffghfjkdgjfd</label>
 
         <button type="submit">Login</button>
     </form>
