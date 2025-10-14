@@ -10,7 +10,10 @@
         <input type="email" name="username"
                 placeholder="Username">
         <input type="password" name="password" 
-                placeholder="Pssword">
+                placeholder="Password">
+				
+		<input type="checkbox">
+		<label>jkffghfjkdgjfd</label>
 
         <button type="submit">Login</button>
     </form>
